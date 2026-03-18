@@ -59,13 +59,13 @@ Cleaned: "master piec move cat 9032"
 
 clean_text = Job.Description + Title + Position
 
-🤖 Model Building
+## 🤖 Model Building
 
 Used TF-IDF Vectorizer to convert text into numerical vectors
 
 Computed similarity using Cosine Similarity
 
-🎯 Recommendation System
+## 🎯 Recommendation System
 
 The system recommends jobs using the following approach:
 
